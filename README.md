@@ -1,5 +1,7 @@
 # A-la-derive
 
+ ![A La Dérive](http://devweb.luna-graphica.fr/captures/Derive.png) 
+
 ## L'objectif ?
 Blog fictif pour les premières bases de Worpdress avec une installation en ligne de commande.
 
